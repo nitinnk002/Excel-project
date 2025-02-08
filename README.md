@@ -18,7 +18,7 @@ subcategory wise sell
 
 Ship mode wise sell	
 
-# process
+# Process
  Verify data for any missing values and anomalies, and sort out the same.
  
  Made sure data is consistent and clean with respect to data type, data format and values used.
